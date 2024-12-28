@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+* eol=lf
+test/*         linguist-vendored
+lib/*          linguist-generated
+marked.min.js  linguist-generated

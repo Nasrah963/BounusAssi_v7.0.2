@@ -54,7 +54,7 @@
     "@typescript-eslint/eslint-plugin": "^6.3.0",
     "@typescript-eslint/parser": "^6.3.0",
     "cheerio": "^1.0.0-rc.12",
-    "commonmark": "0.30.0",
+    "commonmark": "0.31.2",
     "cross-env": "^7.0.3",
     "eslint": "^8.46.0",
     "eslint-config-standard": "^17.1.0",
